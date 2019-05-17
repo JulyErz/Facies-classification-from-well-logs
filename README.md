@@ -4,4 +4,4 @@ Initial data: http://www.people.ku.edu/~gbohling/EECS833/  or facies_data.csv
 
 I will formalize my solution with time :)
 
-See useful_inf.docx
+See useful_inf.pdf
